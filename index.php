@@ -1,3 +1,2 @@
-	<?php include_once("Evan Portfolio"); ?> {
-	index.html, contact.html, portfolio.html}
+<?php include_once("index.html"); ?>
  
